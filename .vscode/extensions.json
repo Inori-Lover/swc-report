@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "vue.volar",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "mikestead.dotenv",
+    "maximus136.change-string-case"
+  ]
+}

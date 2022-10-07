@@ -1,0 +1,7 @@
+# https://github.com/browserslist/browserslist#configuring-for-different-environments
+# https://browserslist.dev
+
+supports proxy
+
+[development]
+last 1 chrome versions
